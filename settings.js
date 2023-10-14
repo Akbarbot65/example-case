@@ -10,9 +10,9 @@ global.APIKeys = {
 	'https://api.zeeoneofc.my.id': 'Your Key',
 }
 
-global.namabot = "Bot Store"
-global.namaowner = "Zeeoneofc"
-global.packname = namabot
+global.namabot = "akbar jb 7896"
+global.namaowner = "ZeeoneZakbarganZ"
+global.packnamZakbarganZt
 global.author = namaowner
 global.myweb = "https://s.id/zeeoneofc"
 global.footer_text = "© " + namabot
@@ -60,7 +60,7 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ Free : ${freeGb} GB
 ╰──────────◇
 ╭✄┈┈┈⟬ *INFO-BOT* ⟭
-┆❐ Creator : ${ownerName}
+┆❐ Creator : ${ownerNaownerNamownerNoowoakbarme}
 ┆❐ Bot Name : ${botName}
 ┆❐ Time : ${jam}
 ┆❐ Date : ${tanggal}
