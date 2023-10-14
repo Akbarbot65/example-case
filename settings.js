@@ -7,18 +7,18 @@ global.APIs = {
 
 // Apikey
 global.APIKeys = {
-	'https://api.zeeoneofc.my.id': 'Your Key',
+	'https://api.zeeoneofc.my.id': 'fOhloaTup25niw9',
 }
 
-global.namabot = "Bot Store"
-global.namaowner = "Zeeoneofc"
-global.packname = namabot
-global.author = namaowner
-global.myweb = "https://s.id/zeeoneofc"
+global.namabot = "Bot akbar"
+global.namaowner = "Akbar jb 7896"
+global.packname = Botakbar
+global.author = akbarjbreal
+global.myweb = "https://linktr.ee/akbarjbreal7896"
 global.footer_text = "© " + namabot
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
 global.qris = fs.readFileSync("./image/qris.jpg")
-global.owner = ['62887435047326']
+global.owner = ['6281549587896']
 global.pairingNumber = "" //pairing number to install bot 
 global.sessionName = 'session'
 global.background = "https://telegra.ph/file/40342e0085d521cb8b907.jpg" //maks size 50kb agar welcome nya gk lemot
@@ -53,17 +53,17 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
  ${mundur}
 
 ╭✄┈┈┈⟬ *STATISTIC* ⟭
-┆❐ Upload : ${upload}
-┆❐ Downloads : ${download}
-┆❐ Total : ${totalGb} GB
-┆❐ Used : ${usedGb} GB
-┆❐ Free : ${freeGb} GB
+┆❐ Upload : ${0}
+┆❐ Downloads : ${0}
+┆❐ Total : ${29,7} GB
+┆❐ Used : ${12,7} GB
+┆❐ Free : ${17} GB
 ╰──────────◇
 ╭✄┈┈┈⟬ *INFO-BOT* ⟭
-┆❐ Creator : ${ownerName}
-┆❐ Bot Name : ${botName}
-┆❐ Time : ${jam}
-┆❐ Date : ${tanggal}
+┆❐ Creator : ${akbar jb real}
+┆❐ Bot Name : ${akbar bot}
+┆❐ Time : ${15:03}
+┆❐ Date : ${14-10-2023}
 ┆❐ Runtime : ${runtime}
 ╰──────────◇
 
